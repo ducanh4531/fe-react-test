@@ -45,6 +45,6 @@ npm run deploy
 
 ## Notes
 
-- Mobile-first responsive design
-- Pixel-perfect implementation using Perfect Pixel Chrome Extension
-- Regular commits showing development progress
+- Mobile-first responsive design,
+- Pixel-perfect implementation using Perfect Pixel Chrome Extension,
+- Regular commits showing development progress.
